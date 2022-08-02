@@ -4,7 +4,7 @@ public enum Operation {
     ADD('+'), SUB('-'), MUL('*'), DIV('/');
 
 
-    private char sign;
+    private final char sign;
     Operation(char sign){
         this.sign = sign;
     }
