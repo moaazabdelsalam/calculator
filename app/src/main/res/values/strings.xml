@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SectionTask</string>
+    <string name="first_number">NUM1</string>
+    <string name="second_number">NUM2</string>
+    <string name="result">Result: %1$d</string>
+    <string name="add">ADD</string>
+    <string name="subtract">SUB</string>
+    <string name="multiplication">MUL</string>
+    <string name="division">DIV</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="history">History</string>
+    <string name="clear">clear</string>
+</resources>
